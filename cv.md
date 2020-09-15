@@ -11,3 +11,5 @@ there is some code in my codeforces account in python [Rustik2000](https://codef
 experience: None
 
 courses at IUT: Data Structure, OOP, Internet Programming, Java, Linear Algebra and others
+
+English level: B2(Ielts 6.5)
